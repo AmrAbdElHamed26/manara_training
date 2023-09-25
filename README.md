@@ -21,22 +21,21 @@ This repository is organized into several subfolders, each focusing on specific 
 
 ### 1. Basic Technical Skills for Job Interviews
 
-This folder contains fundamental technical concepts that are essential for job interviews. Each subtopic is covered in detail with code examples and explanations:
+This folder contains fundamental technical concepts that are essential for job interviews. Each subtopic is covered in detail with code examples using c++ and Dart and explanations:
 
-1. [Arrays and Linked Lists](1-Basic%20technical%20skills%20for%20job%20interviews/Arrays%20and%20Linked%20Lists/README.md)
-2. [Stacks, Queues, and Heaps](1-Basic%20technical%20skills%20for%20job%20interviews/Stacks%2C%20Queues%2C%20and%20Heaps/README.md)
-3. [Trees](1-Basic%20technical%20skills%20for%20job%20interviews/Trees/README.md)
-4. [Trie](1-Basic%20technical%20skills%20for%20job%20interviews/Trie/README.md)
-
+1. [Arrays and Linked Lists](https://github.com/AmrAbdElHamed26/manara_training/tree/main/1-Basic%20technical%20skills%20for%20job%20interviews/1-Arrays%20and%20Linked%20Lists)
+2. [Stacks, Queues, and Heaps](https://github.com/AmrAbdElHamed26/manara_training/tree/main/1-Basic%20technical%20skills%20for%20job%20interviews/2-Stacks%2C%20Queues%2C%20and%20Heaps)
+3. [Trees](https://github.com/AmrAbdElHamed26/manara_training/tree/main/1-Basic%20technical%20skills%20for%20job%20interviews/3-Trees)
+4. [Trie](https://github.com/AmrAbdElHamed26/manara_training/tree/main/1-Basic%20technical%20skills%20for%20job%20interviews/4-Trie)
 ### 2. Advanced Technical Skills for Global Tech Company Interviews
 
 This folder delves into more advanced technical topics and algorithms that are commonly asked in interviews at global tech companies:
 
-1. [DFS and BFS](2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/DFS%20and%20BFS/README.md)
-2. [Topological Sort](2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/Topological%20Sort/README.md)
-3. [Dijkstra's Algorithm](2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/Dijkstra/README.md)
-4. [Union Find (Disjoint Set Union)](2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/Union%20Find(dsu)/README.md)
-5. [Cycle Detection](2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/detect_cycles/README.md)
+1. [DFS and BFS](https://github.com/AmrAbdElHamed26/manara_training/tree/main/2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/1-DFS%20and%20BFS)
+2. [Topological Sort](https://github.com/AmrAbdElHamed26/manara_training/tree/main/2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/2-topological_sort)
+3. [Dijkstra's Algorithm](https://github.com/AmrAbdElHamed26/manara_training/tree/main/2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/3-dijkstra)
+4. [Union Find (Disjoint Set Union)](https://github.com/AmrAbdElHamed26/manara_training/tree/main/2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/4-Union%20Find(dsu))
+5. [Cycle Detection](https://github.com/AmrAbdElHamed26/manara_training/tree/main/2-Advanced%20technical%20skills%20for%20global%20tech%20company%20interviews/5-detect_cycles)
 
 ### 3-Advanced LeetCode Problem Solving
 
